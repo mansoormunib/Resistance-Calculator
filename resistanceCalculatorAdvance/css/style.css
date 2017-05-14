@@ -1,0 +1,37 @@
+#output_wrap {
+  display: inline-block;
+  border: 2px solid #000;
+  padding: 10px;
+  background: #fff;
+  margin-top: 20px;
+}
+.description{margin-bottom:20px}
+
+select {
+  border: solid 1px #000;
+  font-size:14px;
+}
+
+select:last-child {
+  border: solid #C17E00 1px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.svg-container{clear: both;}
+
+#path3455,
+#path3445,
+#path3441,
+#path3443 {
+  cursor: pointer;
+}
+
+.sp-container {
+  border-color: #fff;
+}
+
+.sp-palette .sp-thumb-el {
+  width: 26px;
+  float: none;
+}
